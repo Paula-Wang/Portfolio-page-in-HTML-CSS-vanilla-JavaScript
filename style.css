@@ -352,3 +352,7 @@ article.icon {
 }
 
 /* PROJECTS SECTION */
+
+#projects {
+    position: relative;
+}
